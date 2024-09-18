@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a2 as l}from"./chunks/framework.BToX8gBf.js";const b=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"css/base.md","filePath":"css/base.md"}'),p={name:"css/base.md"},e=l("",11),o=[e];function t(c,r,i,D,F,d){return n(),a("div",null,o)}const m=s(p,[["render",t]]);export{b as __pageData,m as default};

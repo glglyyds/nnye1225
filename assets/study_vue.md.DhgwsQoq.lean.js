@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as s,a2 as t}from"./chunks/framework.BToX8gBf.js";const v=JSON.parse('{"title":"vue学习笔记","description":"","frontmatter":{},"headers":[],"relativePath":"study/vue.md","filePath":"study/vue.md"}'),n={name:"study/vue.md"},o=t("",2),r=[o];function c(i,d,l,_,u,p){return s(),a("div",null,r)}const h=e(n,[["render",c]]);export{v as __pageData,h as default};

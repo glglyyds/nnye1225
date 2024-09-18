@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a2 as l}from"./chunks/framework.BToX8gBf.js";const b=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"vite/base.md","filePath":"vite/base.md"}'),p={name:"vite/base.md"},e=l("",2),o=[e];function t(r,c,D,F,i,y){return a(),n("div",null,o)}const d=s(p,[["render",t]]);export{b as __pageData,d as default};
