@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a2 as l}from"./chunks/framework.C9xM6NwS.js";const B=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"react/antdBug.md","filePath":"react/antdBug.md"}'),p={name:"react/antdBug.md"},o=l("",2),e=[o];function r(c,t,F,D,y,i){return a(),n("div",null,e)}const A=s(p,[["render",r]]);export{B as __pageData,A as default};

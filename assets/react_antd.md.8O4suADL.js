@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./chunks/framework.C9xM6NwS.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"react/antd.md","filePath":"react/antd.md"}'),r={name:"react/antd.md"};function n(c,o,s,d,p,_){return a(),e("div")}const f=t(r,[["render",n]]);export{m as __pageData,f as default};

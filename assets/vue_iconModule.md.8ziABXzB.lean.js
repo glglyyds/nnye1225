@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a2 as l}from"./chunks/framework.C9xM6NwS.js";const B=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"vue/iconModule.md","filePath":"vue/iconModule.md"}'),p={name:"vue/iconModule.md"},o=l("",4),e=[o];function t(c,r,D,F,y,i){return a(),n("div",null,e)}const b=s(p,[["render",t]]);export{B as __pageData,b as default};
